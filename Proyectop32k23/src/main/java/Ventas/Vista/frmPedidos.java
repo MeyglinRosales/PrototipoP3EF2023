@@ -107,7 +107,7 @@ public class frmPedidos extends javax.swing.JInternalFrame {
         setIconifiable(true);
         setMaximizable(true);
         setResizable(true);
-        setTitle("Pedidos del cine");
+        setTitle("Pedidos del Cine");
         setVisible(true);
 
         lbCodProdPed.setText("Codigo del Producto:");
