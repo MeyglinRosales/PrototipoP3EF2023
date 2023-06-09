@@ -33,7 +33,7 @@ public class MdiVentas extends javax.swing.JFrame {
         initComponents();
         setLocationRelativeTo(null);
         this.setExtendedState(MdiVentas.MAXIMIZED_BOTH);
-        this.setTitle("Menu Gestión de Ventas");
+        this.setTitle("                                 Menu Gestión de Ventas de un Cine- Meyglin del Rosario Rosales Ochoa--9959-21-4490          ");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 

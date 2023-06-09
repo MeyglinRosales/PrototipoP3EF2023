@@ -5,9 +5,7 @@
  */
 
 
-//Carlos Javier Sandoval Catalán
-//9959-21-1324
-//Mantenimiento Clientes
+
 package Ventas.Vista;
 
 
@@ -134,7 +132,7 @@ int codigoAplicacion = 3001;
         setIconifiable(true);
         setMaximizable(true);
         setResizable(true);
-        setTitle("Mantenimiento Clientes");
+        setTitle("Mantenimiento Clientes de la Corporacion de Cines");
         setVisible(true);
 
         btnEliminarCliente.setText("Eliminar");
