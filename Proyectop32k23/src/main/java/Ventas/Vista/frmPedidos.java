@@ -65,6 +65,7 @@ public class frmPedidos extends javax.swing.JInternalFrame {
         lbusuPedido = new javax.swing.JLabel();
         jScrollPanePed2 = new javax.swing.JScrollPane();
         jTable1Ped = new javax.swing.JTable();
+        buttonGroup1 = new javax.swing.ButtonGroup();
         lbCodProdPed = new javax.swing.JLabel();
         lbPedActual = new javax.swing.JLabel();
         lbCantProdPed = new javax.swing.JLabel();
@@ -106,7 +107,7 @@ public class frmPedidos extends javax.swing.JInternalFrame {
         setIconifiable(true);
         setMaximizable(true);
         setResizable(true);
-        setTitle("Pedidos");
+        setTitle("Pedidos del cine");
         setVisible(true);
 
         lbCodProdPed.setText("Codigo del Producto:");
@@ -526,6 +527,7 @@ int codigoProducto = Integer.parseInt(txtCodProdPed.getText());
     private javax.swing.JButton btnEliminarPed;
     private javax.swing.JButton btnModificarPed;
     private javax.swing.JButton btnRegistrarPed;
+    private javax.swing.ButtonGroup buttonGroup1;
     private javax.swing.JScrollPane jScrollPanePed2;
     private javax.swing.JScrollPane jScrollPanePedActual;
     private javax.swing.JScrollPane jScrollPaneProdDispPed;

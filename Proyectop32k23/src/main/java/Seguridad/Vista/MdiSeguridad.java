@@ -22,7 +22,7 @@ public class MdiSeguridad extends javax.swing.JFrame {
         initComponents();
         setLocationRelativeTo(null);
         this.setExtendedState(MdiSeguridad.MAXIMIZED_BOTH);
-        this.setTitle("");
+        this.setTitle("Seguridad de un cine- Meyglin del Rosario Rosales Ochoa, 9959-21-4490");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 
