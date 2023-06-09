@@ -122,7 +122,7 @@ int codigoAplicacion = 3003;
         setIconifiable(true);
         setMaximizable(true);
         setResizable(true);
-        setTitle("Mantenimiento Vendedores");
+        setTitle("Mantenimiento Vendedores del Cine");
         setVisible(true);
 
         btnEliminarVendedor.setText("Eliminar");
